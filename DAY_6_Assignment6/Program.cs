@@ -10,6 +10,7 @@ namespace DAY_6_Assignment6
             PrimeNumber p = new PrimeNumber();
             p.PrintPrimeNumber();
 
+
         }
     }
 }
