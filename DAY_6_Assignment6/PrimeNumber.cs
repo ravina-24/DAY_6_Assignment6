@@ -20,7 +20,7 @@ namespace DAY_6_Assignment6
             secondRange = Convert.ToInt32(Console.ReadLine());
 
 
-            Console.WriteLine("Prime number between " + firstRange + "and " + secondRange + "are :");
+            Console.WriteLine("Prime number between " + firstRange + "and " + secondRange + " are :");
 
 
             while (firstRange < secondRange)
