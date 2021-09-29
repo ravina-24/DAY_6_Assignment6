@@ -47,8 +47,6 @@ namespace DAY_6_Assignment6
                 firstRange++;
 
             }
-
-
             Console.ReadLine();
         }
     }
