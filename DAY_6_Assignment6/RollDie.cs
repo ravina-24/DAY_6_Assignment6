@@ -75,6 +75,7 @@ namespace DAY_6_Assignment6
                 Console.WriteLine("Maximu roll die of side 6 = " +count6);
             }
 
+
             Console.ReadLine();
         }
     }
