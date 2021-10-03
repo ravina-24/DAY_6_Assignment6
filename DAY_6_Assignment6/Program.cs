@@ -7,10 +7,11 @@ namespace DAY_6_Assignment6
         static void Main(string[] args)
         {
 
-            PrimeNumber p = new PrimeNumber();
-            p.PrintPrimeNumber();
+            //PrimeNumber p = new PrimeNumber();
+            //p.PrintPrimeNumber();
 
-
+            RollDie roll = new RollDie();
+            roll.findMaximum();
         }
     }
 }
